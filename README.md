@@ -21,6 +21,7 @@ Analytics & Reporting
 
 NetSuite is widely used by mid-sized to large enterprises for real-time business process automation.
 
+
 2. NetSuite Course Breakdown
 A good NetSuite course covers:
 
